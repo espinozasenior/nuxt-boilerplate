@@ -5,7 +5,7 @@ module.exports = {
 
   dev: (process.env.NODE_ENV !== 'production'),
   head: {
-    title: 'cosmicapp-tutorials',
+    title: 'life-lifting-frontend',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
